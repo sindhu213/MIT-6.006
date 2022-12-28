@@ -1,5 +1,5 @@
 # Introduction to Algorithms - C++ Implementations
-This repository contains the implementations of various algorithms covered in the MIT 6.006 (Introduction to Algorithms) course, offered in Fall 2011. The algorithms are implemented in C++ and accompanied by a brief analysis of their complexity and other relevant details.
+This repository contains the implementations of various algorithms covered in the MIT 6.006 (Introduction to Algorithms) course, offered in Fall 2011. The algorithms are implemented in C++. The lecture notes on the [course website](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/pages/lecture-notes/) contain a detailed analysis of the algorithms.
 
 ## Contents
 So far, the repository includes the following algorithms:
